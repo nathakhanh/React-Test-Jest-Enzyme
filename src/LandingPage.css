@@ -1,0 +1,7 @@
+#search_found {
+  color: green;
+}
+
+#search_not_found {
+  color: red;
+}
